@@ -8,7 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "论文成果"
+  - title: "获奖与论文"
     url: /publications/
 
   - title: "学生招生"
