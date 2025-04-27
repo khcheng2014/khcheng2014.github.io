@@ -3,7 +3,7 @@ layout: archive
 title: 
 permalink: /publications/
 author_profile: true
-header: false
+show_title: false
 ---
 
 ## 荣誉与奖励
