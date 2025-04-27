@@ -3,6 +3,7 @@ permalink: /
 title: 
 author_profile: true
 header: false
+show_title: false
 ---
 
 ## 基本信息
