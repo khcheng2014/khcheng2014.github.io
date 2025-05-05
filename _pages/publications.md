@@ -16,7 +16,7 @@ show_title: false
 
 详细论文信息见[谷歌学术](https://scholar.google.com.hk/citations?hl=zh-CN&user=kWSjCHQAAAAJ)。
 
-部分论文列表：
+部分论文：
 
 |                                                                                                                                                                                                                                                                                                                |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,8 +25,8 @@ show_title: false
 | Teng Ma, **Kuanhong Cheng***, Tingting Chai, Shitala Prasad, Dong Zhao, Junhuai Li, Huixin Zhou. “[Mdcenet: Multi-dimensional cross-enhanced network for infrared small target detection](https://www.sciencedirect.com/science/article/abs/pii/S1350449524003591)”, **Infrared Physics & Technology**. (2024) |
 | Yubo Wu, **Kuanhong Cheng***, Ting Cao, Dong Zhao, Junhuai Li. “[Semi-supervised correction model for turbulence-distorted images](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-12-21160&id=551139)”,  **Optics Express**. (2024)                                                                          |
 | **Kuanhong Cheng***, Shitala Prasad, Tingting Chai, Wangwang Xue, Dong Zhao*. “[Local Curvature Optimization for Self-Supervised Image Restoration](https://ieeexplore.ieee.org/abstract/document/10510560)”,  **IEEE Signal Processing Letters**. (2024)                                                       |
-| **Kuanhong Cheng***, Juan Du, Jia Li, Kun Qian, Zhixiao Wang “[TSRRNet: two-stage reflection removal network with reflective guidance](https://opg.optica.org/ao/abstract.cfm?uri=ao-60-26-8006)”, **Applied Optics**. (2021)                                                                                  |
-| **Kuanhong Cheng**, Yue Yu*, Huixin Zhou, Dong Zhao, Kun Qian "[GPU fast restoration of non-uniform illumination images](https://link.springer.com/article/10.1007/s11554-020-00950-7)", **Journal of Real-Time Image Processing**. (2021)                                                                     |
+| **Kuanhong Cheng***, Juan Du, Jia Li, Kun Qian, Zhixiao Wang. “[TSRRNet: two-stage reflection removal network with reflective guidance](https://opg.optica.org/ao/abstract.cfm?uri=ao-60-26-8006)”, **Applied Optics**. (2021)                                                                                  |
+| **Kuanhong Cheng**, Yue Yu*, Huixin Zhou, Dong Zhao, Kun Qian. "[GPU fast restoration of non-uniform illumination images](https://link.springer.com/article/10.1007/s11554-020-00950-7)", **Journal of Real-Time Image Processing**. (2021)                                                                     |
 | **Kuanhong Cheng**, Juan Du, Huixin Zhou*, Dong Zhao, Hanlin Qin. “[Image super-resolution based on half quadratic splitting](https://www.sciencedirect.com/science/article/pii/S135044951930667X)”,  **Infrared Physics & Technology**. (2020)                                                                |
 
 
