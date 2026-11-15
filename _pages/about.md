@@ -34,17 +34,20 @@ show_title: false
 ======
 ## 1. 病态图像复原
 
-采用图像处理和计算机视觉方法解决反射干扰、大气湍流干扰、图像HDR、图像修复、传感器非均匀性等高度病态的图像退化问题，部分算法效果如下
+采用图像处理和计算机视觉方法解决反射干扰、大气湍流干扰、图像HDR、图像修复、传感器非均匀性等高度病态的图像退化问题
+<!--
+，部分算法效果如下
 
 ### 1.1 湍流畸变校正
 <img alt="img.png" src="../images/img.png" title="湍流畸变校正" width="720"/>
 
 ### 1.2 反射干扰消除
 <img alt="img_5.png" src="../images/img_5.png" title="反射干扰消除" width="720"/>
-
+-->
 ## 2. 目标检测跟踪
 
 针对红外、可见光视频场景下的弱小目标进行检测和跟踪研究
+<!-- 
 ### 2.1 复杂地面背景下的目标检测跟踪
 <img alt="img_2.png" src="../images/img_2.png" width="720"/>
 
@@ -62,3 +65,4 @@ show_title: false
 <img alt="img_7.png" src="../images/img_7.png" width="720"/>
 
 <img alt="img_8.png" src="../images/img_8.png" width="720"/>
+-->
